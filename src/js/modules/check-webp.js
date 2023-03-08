@@ -1,3 +1,5 @@
+const html = document.documentElement
+
 export function isWebp() {
 	// Webp support check
 	const testWebp = (callback) => {
