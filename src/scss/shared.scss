@@ -1,5 +1,5 @@
 html	{
-	font-family: OpenSans, sans-serif;
+	font-family: Poppins, sans-serif;
 }
 
 .main-container {
@@ -8,4 +8,10 @@ html	{
 	align-items: center;
 	width: 100%;
 	height: 100vh;
+}
+
+.img-basic {
+	display: block;
+	width: 100%;
+	object-fit: cover;
 }
